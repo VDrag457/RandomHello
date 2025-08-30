@@ -1,4 +1,5 @@
 package hw0;
+import java.util.Random;
 /**
 * RandomHello selects a random greeting to display to the user.
 */
@@ -24,3 +25,4 @@ public class RandomHello
 	}
 
 }
+
