@@ -19,6 +19,8 @@ public class RandomHello
 	*/
 	public String getGreeting()
 	{
-	// YOUR CODE GOES HERE
+		// YOUR CODE GOES HERE
+		Random randomGenerator = new Random();
 	}
+
 }
